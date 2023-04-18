@@ -1,0 +1,19 @@
+{
+  "name": "firstdirectapi",
+  "version": "1.0.0",
+  "description": "API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielf-11/FirstDirectAPI.git"
+  },
+  "author": "Daniel Fong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielf-11/FirstDirectAPI/issues"
+  },
+  "homepage": "https://github.com/danielf-11/FirstDirectAPI#readme"
+}
